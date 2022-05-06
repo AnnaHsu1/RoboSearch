@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right,rgb(56, 56, 162), rgb(12, 149, 222));
+  font-family: 'Orbitron', sans-serif;
 }
 
 code {
